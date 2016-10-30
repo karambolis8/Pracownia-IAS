@@ -1,0 +1,28 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\BMW_Wawa.dll.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\BMW_Wawa.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\BMW_Wawa.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\Iesi.Collections.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\NHibernate.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\Iesi.Collections.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\NHibernate.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\BMW_Wawa\bin\hibernate.cfg.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\hibernate.cfg.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\BMW_Wawa.dll.config
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\BMW_Wawa.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\BMW_Wawa.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Iesi.Collections.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\NHibernate.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Iesi.Collections.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\NHibernate.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\obj\Debug\BMW_Wawa.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Castle.Core.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Castle.Core.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\log4net.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\log4net.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Common.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wawa\bin\Common.pdb

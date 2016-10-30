@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="702275e4-6fd8-4a9e-8653-a7e7629147ee" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56854/BMWWroclaw.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BMWWroclaw.disco" MetadataType="Disco" ID="06ae963b-b980-4c81-99b1-78360eb1afc5" SourceId="1" SourceUrl="http://localhost:56854/BMWWroclaw.svc?disco" />
+    <MetadataFile FileName="BMWWroclaw.xsd" MetadataType="Schema" ID="9c7e461a-5f02-4c25-bde5-b030eca3615c" SourceId="1" SourceUrl="http://localhost:56854/BMWWroclaw.svc?xsd=xsd0" />
+    <MetadataFile FileName="BMWWroclaw1.xsd" MetadataType="Schema" ID="2150fc75-7cad-425c-a4ac-7b6b0b5291bb" SourceId="1" SourceUrl="http://localhost:56854/BMWWroclaw.svc?xsd=xsd1" />
+    <MetadataFile FileName="BMWWroclaw2.xsd" MetadataType="Schema" ID="eae3a466-58f1-4df5-a88e-dfd0ab4b5155" SourceId="1" SourceUrl="http://localhost:56854/BMWWroclaw.svc?xsd=xsd2" />
+    <MetadataFile FileName="BMWWroclaw.wsdl" MetadataType="Wsdl" ID="2422f212-a4e0-4637-85b1-b6820a23c1a2" SourceId="1" SourceUrl="http://localhost:56854/BMWWroclaw.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

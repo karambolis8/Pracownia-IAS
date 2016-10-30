@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="49f86027-194f-43c4-bed9-bf7ec673c5cf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53383/BmwWawa.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BmwWawa.xsd" MetadataType="Schema" ID="f9bf8800-2430-4b3e-9db4-28f3da12fd12" SourceId="1" SourceUrl="http://localhost:53383/BmwWawa.svc?xsd=xsd1" />
+    <MetadataFile FileName="BmwWawa.disco" MetadataType="Disco" ID="b1177e9b-6751-46bf-864b-70c05d07403f" SourceId="1" SourceUrl="http://localhost:53383/BmwWawa.svc?disco" />
+    <MetadataFile FileName="BmwWawa.wsdl" MetadataType="Wsdl" ID="652c813f-bf7f-41e1-b015-146bdc43d246" SourceId="1" SourceUrl="http://localhost:53383/BmwWawa.svc?wsdl" />
+    <MetadataFile FileName="BmwWawa1.xsd" MetadataType="Schema" ID="577dcb10-9c4a-4b95-a3a5-1ef7d8c90ae8" SourceId="1" SourceUrl="http://localhost:53383/BmwWawa.svc?xsd=xsd0" />
+    <MetadataFile FileName="BmwWawa2.xsd" MetadataType="Schema" ID="590d7490-7206-4c12-aa0c-7a48445b80f4" SourceId="1" SourceUrl="http://localhost:53383/BmwWawa.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

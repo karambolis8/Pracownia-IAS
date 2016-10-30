@@ -1,0 +1,41 @@
+﻿@model Pracownia.Models.HomeVM
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<div class="jumbotron" style="height:300px;">
+    <div class="bmw-logo"><img src="http://seeklogo.com/images/B/bmw-logo-248C3D90E6-seeklogo.com.gif"/></div>
+    <div class="lead">System dostępu do baz danych salonów BMW w Polsce</div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Dostępne samochody</h2>
+        <p>
+            System wyświetla informacje o dostępnych fizycznie egzemplarzach samochodów w danej konfiguracji w podanym salonie.
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Seria</th>
+                    <th>Model</th>
+                    <th>Nadwozie</th>
+                    <th>Silnik</th>
+                    <th>Pojemność</th>
+                    <th>Moc</th>
+                    <th>Skrzynia biegów</th>
+                    <th>Kolor</th>
+                    <th>Cena</th>
+                    <th>Miasto</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var car in Model.Cars)
+                {
+                    @Html.DisplayFor(x => car)
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,6 @@
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\bin\Debug\CSV.exe.config
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\bin\Debug\CSV.exe
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\bin\Debug\CSV.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\obj\Debug\CSV.exe
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\CSV\obj\Debug\CSV.pdb

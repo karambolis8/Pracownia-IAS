@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="BMW_Wawa">
+
+  <class name="BMW_Wroclaw.DAO.Car, BMW_Wroclaw" table="Car">
+    <id name="Id">
+      <generator class="native" />
+    </id>
+    <property name="Series" />
+    <property name="Version" />
+    <property name="Body" />
+    <property name="FuelType" />
+    <property name="EngineCapacity" />
+    <property name="Power" />
+    <property name="GearboxType" />
+    <property name="Price" />
+    <property name="Colour" />
+  </class>
+
+</hibernate-mapping>

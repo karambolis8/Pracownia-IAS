@@ -1,0 +1,17 @@
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\hibernate.cfg.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\BMW_Wroclaw.dll.config
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\BMW_Wroclaw.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\BMW_Wroclaw.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Castle.Core.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Common.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Iesi.Collections.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\log4net.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\NHibernate.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Common.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Castle.Core.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\Iesi.Collections.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\log4net.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\bin\NHibernate.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\obj\Debug\BMW_Wroclaw.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\obj\Debug\BMW_Wroclaw.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\BMW_Wroclaw\obj\Debug\BMW_Wroclaw.pdb

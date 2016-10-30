@@ -1,0 +1,35 @@
+﻿@model Pracownia.DataObjects.BmwCar
+@using Pracownia.ViewHelpers
+
+    <tr>
+        <td>
+            @Model.Series
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Version)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Body)
+        </td>
+        <td>
+            @Model.FuelType.FormatAsFuelType()
+        </td>
+        <td>
+            @Model.EngineCapacity.FormatAsCapacity()
+        </td>
+        <td>
+            @Model.Power.FormatAsPower()
+        </td>
+        <td>
+            @Model.GearboxType.FormatAsGearbox()
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Colour)
+        </td>
+        <td class="price">
+            @Model.Price.FormatAsCurrency()
+        </td>
+        <td class="@Model.City.ToLower()">
+            @Html.DisplayFor(model => model.City)
+        </td>
+    </tr>

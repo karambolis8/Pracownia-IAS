@@ -1,0 +1,82 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\csc.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\vbc.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Pracownia.dll.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Pracownia.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Pracownia.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Antlr3.Runtime.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Newtonsoft.Json.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Helpers.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Mvc.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Optimization.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Razor.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\WebGrease.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Helpers.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Mvc.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Optimization.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.Razor.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Antlr3.Runtime.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\bin\Newtonsoft.Json.xml
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\obj\Debug\Pracownia.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\obj\Debug\Pracownia.dll
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\Pracownia\Pracownia\obj\Debug\Pracownia.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\csc.exe
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\vbc.exe
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Pracownia.dll.config
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Pracownia.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Pracownia.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Antlr3.Runtime.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Newtonsoft.Json.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Helpers.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Mvc.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Optimization.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Razor.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\WebGrease.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Helpers.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Mvc.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Optimization.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.Razor.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Antlr3.Runtime.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\Newtonsoft.Json.xml
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\obj\Debug\Pracownia.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\obj\Debug\Pracownia.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\obj\Debug\Pracownia.pdb
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\AutoMapper.dll
+C:\Users\Adam\Documents\studia\UE\IAS\Pracownia\Pracownia\bin\AutoMapper.xml
