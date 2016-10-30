@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMW_Wroclaw", "BMW_Wroclaw\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{14F20B69-D649-4DF6-8BF6-2BA76F600426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV", "CSV\CSV.csproj", "{834F5453-F6AF-4D5E-87AD-1A6239DF3DD5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,10 +37,6 @@ Global
 		{14F20B69-D649-4DF6-8BF6-2BA76F600426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F20B69-D649-4DF6-8BF6-2BA76F600426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F20B69-D649-4DF6-8BF6-2BA76F600426}.Release|Any CPU.Build.0 = Release|Any CPU
-		{834F5453-F6AF-4D5E-87AD-1A6239DF3DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{834F5453-F6AF-4D5E-87AD-1A6239DF3DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{834F5453-F6AF-4D5E-87AD-1A6239DF3DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{834F5453-F6AF-4D5E-87AD-1A6239DF3DD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
