@@ -32,6 +32,7 @@ namespace Pracownia
                 .ForMember(dest => dest.City, opt => opt.MapFrom(src => "Warszawa"));
 
                 cfg.CreateMap<Car, BmwCar>()
+                // propercje o takiej samej nazwie mapowane są automatycznie
                 .ForMember(dest => dest.City, opt => opt.MapFrom(src => "Wroclaw"));
             });
         }
